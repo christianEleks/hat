@@ -575,6 +575,6 @@ body ,html{
 }
 @media only screen and (max-width:485px){
     p{
-        word-spacing: -2px;
+        word-spacing: -4px;
        }  
 }
