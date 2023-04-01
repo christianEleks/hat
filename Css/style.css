@@ -573,3 +573,7 @@ body ,html{
         word-spacing: -3px;
     }
 }
+@media only screen and (max-width:480px){
+   p{
+    word-spacing: -2px;
+   }
